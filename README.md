@@ -2,6 +2,9 @@
 
 An interactive, educational web application designed to help students visually and mathematically understand the foundations of **Simple and Multiple Linear Regression**. Built entirely in Python using Streamlit, this tool bridges the gap between raw code and theoretical mathematics by providing a hands-on, step-by-step learning environment.
 
+### 🌐 Live Demo
+You can try out the application live here: **[https://my-linear-regression-app.streamlit.app/](https://my-linear-regression-app.streamlit.app/)**
+
 ---
 
 ## 🎯 Educational Objectives
